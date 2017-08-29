@@ -1,6 +1,6 @@
-# SCSS Starter Pack
+# Snow bg animation
 
-A light package for compiling Sass and running a dev server
+Using the light package for compiling Sass and running a dev server
 
 ### Version
 1.0.0
